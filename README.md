@@ -1,2 +1,2 @@
 # ProgrammingWithLLMs
-This repository contains an engineering thesis that tests the ChatGPT-4 language model in machine learning tasks (document in Polish).
+This engineering thesis delves into the practical application of the ChatGPT-4 language model within the realm of machine learning. The work presented here encompasses a series of projects that demonstrate the capabilities of ChatGPT-4 across supervised, unsupervised, and reinforcement learning. The aim is not only to showcase the functionalities of ChatGPT-4 but also to reveal how such advanced technologies can influence the development and optimization of machine learning solutions and enhance the efficiency of programmers.
